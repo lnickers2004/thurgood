@@ -7,7 +7,8 @@ var accessLevels = require('../public/js/routingConfig').accessLevels;
 // User email and role mapping table
 // This is a temporay solution. 
 var userRoleMap = {
-  "jdouglas@appirio.com": userRoles.admin
+  "jdouglas@appirio.com": userRoles.admin,
+  "rmanethiya@appirio.com": usersRoles.admin
 };
 
 /*
